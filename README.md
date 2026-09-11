@@ -1,2 +1,1 @@
-# DevOps Git Practice Project
-- This project is for learning Git branching.
+ Edited directly on GitHub by another developer.
