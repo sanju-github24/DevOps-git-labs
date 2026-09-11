@@ -1,0 +1,2 @@
+Original line one
+Second line stays the same
