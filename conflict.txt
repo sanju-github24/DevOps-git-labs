@@ -1,2 +1,2 @@
-Line changed on the main branch
+Line changed on the feature-conflict branch
 Second line stays the same
